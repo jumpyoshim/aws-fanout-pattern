@@ -1,0 +1,6 @@
+export WEBHOOK_URL=
+export CHANNEL=test
+export USER_NAME=test
+export ICON=:innocent:
+export STACK_BUCKET=aws-fanout-pattern-jumpyoshim
+export FILE_BUCKET=aws-fanout-pattern-jumpyoshim-file
